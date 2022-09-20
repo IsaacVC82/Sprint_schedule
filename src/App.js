@@ -1,4 +1,5 @@
 import Tasks from "./componentes/cards.js"
+import "./App.css"
 
 function App(props) {
   console.log(props)
