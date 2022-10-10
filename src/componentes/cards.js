@@ -10,7 +10,7 @@ function Tasks(props){
                 <p>- Preparar el material visual para la reunión con el cliente</p>
                 <p>- Reunión con el equipo antes de la junta con el cliente</p>
                 <p>- Reunión con el cliente</p>
-                <p>Nota: En la reunión con el cliente se deberan acordar los criterios de \n aceptación del proyecto</p>
+                <p>Nota: En la reunión con el cliente se deberan acordar los criterios de  aceptación del proyecto</p>
                 <p className="task">Reunión Diseño 1</p>
                 <p>- Reunión con el diseñador para una lluvia de ideas</p>
                 <p>- Diseño de una nueva paleta de colores congruente con la imagen de la empresa </p>
@@ -36,11 +36,11 @@ function Tasks(props){
                     <p>- Programar la página principal</p>
                     <p>- Programar el carrito de compras</p>
                     <p>- Programar las paginas secundarias o de los productos</p>
-                    <p>Nota: En el diseño del catalogo se debera tomar muy en cuenta la  \n imagen de la empresa</p>
+                    <p>Nota: En el diseño del catalogo se debera tomar muy en cuenta la   imagen de la empresa</p>
                     <p className="task">Test 1</p>
                     <p>- Testear la seguridad del catalogo web</p>
                     <p>- Testear la accesibilidad del catalogo web</p>
-                    <p>Nota: La accesibilidad y la UX serán nuestro principal objetivo en esta \n parte del sprint</p>
+                    <p>Nota: La accesibilidad y la UX serán nuestro principal objetivo en esta parte del sprint</p>
                 </div>
                 </div>
 
