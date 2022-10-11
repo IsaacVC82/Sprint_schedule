@@ -56,6 +56,8 @@ function Tasks(props){
                         <p className="task">Test final</p>
                         <p>- Realizar test de seguridad del catalogo</p>
                         <p>- Realizar test de accesibilidad del catalogo</p>
+                        <p>- Realizar test de UX del catalogo</p>
+                        <p className="task">Reunión final</p>
                         <p>- Reunión con el cliente para el lanzamiento del catalogo</p>
                         <p>Nota: Esta será la reunión clave donde sabremos si alcanzamos la meta</p>
 
